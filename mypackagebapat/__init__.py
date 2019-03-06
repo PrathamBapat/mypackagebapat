@@ -1,1 +1,1 @@
-from mypackagebapat import one
+from mypackagebapat.mymath import one
