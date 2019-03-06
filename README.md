@@ -1,2 +1,1 @@
-
-# pysimplib
+# A Basic Addition and subtraction package
