@@ -1,6 +1,6 @@
 class one:
- def addition(a, b):
+ def addition(self, a, b):
   return a+b
 
- def subtraction(a,b):
+ def subtraction(self, a,b):
   return a-b
