@@ -1,1 +1,1 @@
-# A Basic Addition and subtraction package
+# A very basic Addition and subtraction python package.
